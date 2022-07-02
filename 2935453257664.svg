@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_compute-engine</title>
+    <g id="ic_compute-engine" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="compute-engine" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#AECBFA" x="12.6" y="12.6" width="10.8" height="10.8"></rect>
+            <rect id="Rectangle" fill="#669DF6" x="16.2" y="0" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#669DF6" x="9" y="0" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#669DF6" x="23.4" y="0" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#4285F4" x="16.2" y="28.8" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#4285F4" x="9" y="28.8" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#4285F4" x="23.4" y="28.8" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#4285F4" transform="translate(32.400000, 18.000000) rotate(-90.000000) translate(-32.400000, -18.000000) " x="30.6" y="14.4" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#4285F4" transform="translate(32.400000, 25.200000) rotate(-90.000000) translate(-32.400000, -25.200000) " x="30.6" y="21.6" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#4285F4" transform="translate(32.400000, 10.800000) rotate(-90.000000) translate(-32.400000, -10.800000) " x="30.6" y="7.2" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#669DF6" transform="translate(3.600000, 18.000000) rotate(-90.000000) translate(-3.600000, -18.000000) " x="1.8" y="14.4" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#669DF6" transform="translate(3.600000, 25.200000) rotate(-90.000000) translate(-3.600000, -25.200000) " x="1.8" y="21.6" width="3.6" height="7.2"></rect>
+            <rect id="Rectangle" fill="#669DF6" transform="translate(3.600000, 10.800000) rotate(-90.000000) translate(-3.600000, -10.800000) " x="1.8" y="7.2" width="3.6" height="7.2"></rect>
+            <path d="M5.4,5.4 L5.4,30.6 L30.6,30.6 L30.6,5.4 L5.4,5.4 Z M27,27 L9,27 L9,9 L27,9 L27,27 Z" id="Shape" fill="#AECBFA"></path>
+            <polygon id="Path" fill="#669DF6" points="12.6 23.4 23.4 23.4 18 18"></polygon>
+            <polygon id="Path" fill="#4285F4" points="18 18 23.4 23.4 23.4 12.6"></polygon>
+        </g>
+    </g>
+</svg>
