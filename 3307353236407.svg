@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_cloud-dns</title>
+    <g id="ic_cloud-dns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 1.000000)" fill-rule="nonzero">
+            <g id="shape-copy" transform="translate(0.000000, 10.200000)">
+                <polygon id="Fill-1" fill="#4285F4" points="18.7 17 15.3 17 15.3 0 18.7 0"></polygon>
+                <polygon id="Fill-2" fill="#669DF6" points="0 22.1 34 22.1 34 18.7 0 18.7"></polygon>
+                <polygon id="Fill-3" fill="#AECBFA" points="13.6 23.8 20.4 23.8 20.4 17 13.6 17"></polygon>
+            </g>
+            <rect id="Rectangle" fill="#AECBFA" x="0" y="0" width="34" height="10.2"></rect>
+            <rect id="Rectangle" fill="#669DF6" x="17" y="0" width="17" height="10.2"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="3.4" y="3.4" width="3.4" height="3.4"></rect>
+            <rect id="Rectangle" fill="#AECBFA" x="0" y="13.6" width="34" height="10.2"></rect>
+            <rect id="Rectangle" fill="#669DF6" x="17" y="13.6" width="17" height="10.2"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="3.4" y="17" width="3.4" height="3.4"></rect>
+        </g>
+    </g>
+</svg>
