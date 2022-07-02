@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_cloud-deployment-manager</title>
+    <g id="ic_cloud-deployment-manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cloud-deployment-manager" transform="translate(0.000000, 1.000000)">
+            <rect id="Rectangle-path" fill="#4285F4" fill-rule="nonzero" x="14.4" y="25.2" width="7.2" height="7.2"></rect>
+            <polygon id="Path" fill="#669DF6" points="30.6 14.112 22.788 6.318 20.97 8.136 30.6 17.73"></polygon>
+            <polygon id="Path" fill="#4285F4" points="24.606 11.754 20.97 8.136 22.788 6.318 24.606 8.136"></polygon>
+            <polygon id="Path" fill="#AECBFA" points="16.092 16.632 14.274 14.814 22.788 6.318 24.606 8.136"></polygon>
+            <polygon id="Path" fill="#669DF6" points="16.092 16.632 10.944 11.502 12.78 9.684 17.91 14.814"></polygon>
+            <polygon id="Path" fill="#4285F4" points="14.544 15.084 10.944 11.502 12.78 9.684 14.544 11.448"></polygon>
+            <polygon id="Path" fill="#AECBFA" points="6.192 19.782 14.544 11.448 12.726 9.63 5.4 16.938 5.4 19.782"></polygon>
+            <path d="M36,1.89 C35.8344907,0.973124215 35.1168758,0.255509299 34.2,0.09 L1.8,0.09 C0.883124215,0.255509299 0.165509299,0.973124215 0,1.89 L0,25.2 C0.13973493,26.1301181 0.869881916,26.8602651 1.8,27 L34.2,27 C35.1301181,26.8602651 35.8602651,26.1301181 36,25.2 L36,1.89 Z M32.4,23.4 L3.6,23.4 L3.6,3.6 L32.4,3.6 L32.4,23.4 Z" id="Shape" fill="#669DF6"></path>
+            <path d="M10.8,34.2 C10.8,32.958 11.358,32.4 12.6,32.4 L23.4,32.4 C24.642,32.4 25.2,32.958 25.2,34.2 L10.8,34.2 Z" id="Path" fill="#669DF6"></path>
+        </g>
+    </g>
+</svg>
