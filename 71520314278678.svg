@@ -1,0 +1,299 @@
+<svg width="1999.9999999999998" height="1600" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <!-- 背景渐变 -->
+  <!-- 主线装备渐变 -->
+  <!-- 副线装备渐变（带光效） -->
+  <!-- 光效滤镜 -->
+  <filter id="glow">
+   <feGaussianBlur result="coloredBlur" stdDeviation="3"/>
+  </filter>
+  <filter id="strongGlow">
+   <feGaussianBlur result="coloredBlur" stdDeviation="5"/>
+  </filter>
+  <!-- 箭头 -->
+  <marker orient="auto" refY="3" refX="10" markerHeight="12" markerWidth="12" id="arrow">
+   <polygon id="svg_1" fill="#ffd700" points="0 0, 12 3, 0 6"/>
+  </marker>
+  <marker orient="auto" refY="3" refX="10" markerHeight="12" markerWidth="12" id="arrowSpecial">
+   <polygon id="svg_2" fill="#ff6348" points="0 0, 12 3, 0 6"/>
+  </marker>
+  <linearGradient y2="100%" x2="0%" y1="0%" x1="0%" id="main1">
+   <stop stop-opacity="0.95" stop-color="#ff6b6b" offset="0%"/>
+   <stop stop-opacity="0.95" stop-color="#c44569" offset="100%"/>
+  </linearGradient>
+  <linearGradient y2="100%" x2="0%" y1="0%" x1="0%" id="main2">
+   <stop stop-opacity="0.95" stop-color="#feca57" offset="0%"/>
+   <stop stop-opacity="0.95" stop-color="#ee9a00" offset="100%"/>
+  </linearGradient>
+  <linearGradient y2="100%" x2="0%" y1="0%" x1="0%" id="main3">
+   <stop stop-opacity="0.95" stop-color="#48dbfb" offset="0%"/>
+   <stop stop-opacity="0.95" stop-color="#0abde3" offset="100%"/>
+  </linearGradient>
+  <linearGradient y2="100%" x2="0%" y1="0%" x1="0%" id="main4">
+   <stop stop-opacity="0.95" stop-color="#a29bfe" offset="0%"/>
+   <stop stop-opacity="0.95" stop-color="#6c5ce7" offset="100%"/>
+  </linearGradient>
+  <linearGradient y2="100%" x2="0%" y1="0%" x1="0%" id="sub1">
+   <stop stop-opacity="0.95" stop-color="#ffd93d" offset="0%"/>
+   <stop stop-opacity="0.95" stop-color="#f8b500" offset="100%"/>
+  </linearGradient>
+  <linearGradient y2="100%" x2="0%" y1="0%" x1="0%" id="sub2">
+   <stop stop-opacity="0.95" stop-color="#6dd5ed" offset="0%"/>
+   <stop stop-opacity="0.95" stop-color="#2193b0" offset="100%"/>
+  </linearGradient>
+  <linearGradient y2="100%" x2="0%" y1="0%" x1="0%" id="sub3">
+   <stop stop-opacity="0.95" stop-color="#b19cd9" offset="0%"/>
+   <stop stop-opacity="0.95" stop-color="#7c5cce" offset="100%"/>
+  </linearGradient>
+  <linearGradient y2="100%" x2="100%" y1="0%" x1="0%" id="bg">
+   <stop stop-color="#0a0e27" offset="0%"/>
+   <stop stop-color="#1a1a3e" offset="50%"/>
+   <stop stop-color="#0f0c29" offset="100%"/>
+  </linearGradient>
+ </defs>
+ <!-- 背景 -->
+ <!-- 装饰线 -->
+ <!-- 主标题 -->
+ <!-- 图例说明 -->
+ <!-- ================ 主线装备 ================ -->
+ <!-- 主线-赤月 -->
+ <!-- 箭头 -->
+ <!-- 主线-赤月[神] -->
+ <!-- 箭头 -->
+ <!-- 主线-赤月[圣] -->
+ <!-- 箭头 -->
+ <!-- 主线-九龙[极] -->
+ <!-- ================ 副线装备 ================ -->
+ <!-- 连接线-主副线关系 -->
+ <!-- 副线-赤月[超神] -->
+ <!-- 箭头 -->
+ <!-- 副线-赤月[超圣] -->
+ <!-- 箭头 -->
+ <!-- 副线-九龙[超级] -->
+ <!-- ================ 九龙特殊属性说明 ================ -->
+ <!-- ================ 套装属性混搭说明 ================ -->
+ <!-- ================ 套装需求说明 ================ -->
+ <!-- ================ 完整属性对照表 ================ -->
+ <!-- ================ 重点说明 ================ -->
+ <!-- 底部版权 -->
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_3" d="m0,0l2000,0l0,1600l-2000,0l0,-1600z" opacity="undefined" stroke="null" fill="url(#bg)"/>
+  <line x1="0" id="svg_4" opacity="0.4" stroke-width="3" stroke="#ffd700" y2="152.77778" x2="2000" y1="152.77778"/>
+  <line x1="0" id="svg_5" opacity="0.6" stroke="#ffd700" y2="148.67633" x2="2000" y1="148.67633"/>
+  <text style="cursor: move;" id="svg_6" letter-spacing="5" text-anchor="middle" fill="#ffd700" font-weight="bold" font-size="48" font-family="SimHei, Microsoft YaHei" y="110.63492" x="1000">九龙复古-装备进阶系统图(以圣战戒指为例）</text>
+  <text id="svg_13" font-weight="bold" fill="#ffd700" font-size="24" font-family="SimHei, Microsoft YaHei" y="250" x="100">主线装备</text>
+  <g id="main-tier1">
+   <rect id="svg_14" stroke-width="3" stroke="#ff4757" fill="url(#main1)" rx="12" height="160" width="220" y="270" x="80"/>
+   <text id="svg_15" text-anchor="middle" fill="white" font-weight="bold" font-size="24" font-family="SimHei, Microsoft YaHei" y="305" x="190">赤月</text>
+   <line id="svg_16" opacity="0.4" stroke="white" y2="315" x2="285" y1="315" x1="95"/>
+   <text id="svg_17" text-anchor="middle" fill="#fff3cd" font-size="15" font-family="Microsoft YaHei" y="340" x="190">初始攻击: 7点</text>
+   <text id="svg_18" text-anchor="middle" fill="white" font-size="15" font-family="Microsoft YaHei" y="365" x="190">满级(+6): 13点</text>
+   <text id="svg_19" text-anchor="middle" fill="#ffe66d" font-size="13" font-family="Microsoft YaHei" y="390" x="190">每级 +1 攻击</text>
+   <rect id="svg_20" rx="4" opacity="0.5" fill="#c44569" height="20" width="200" y="400" x="90"/>
+   <text id="svg_21" text-anchor="middle" fill="white" font-size="12" font-family="Microsoft YaHei" y="414" x="190">套装: 攻击+5 HP/MP+3%</text>
+  </g>
+  <path id="svg_22" marker-end="url(#arrow)" stroke-width="4" stroke="#ffd700" d="m300,330l65,0"/>
+  <text id="svg_23" font-weight="bold" fill="#ffd700" font-size="11" font-family="Microsoft YaHei" y="314.93671" x="330.73418">进阶</text>
+  <g id="main-tier2">
+   <rect id="svg_24" stroke-width="3" stroke="#feca57" fill="url(#main2)" rx="12" height="160" width="240" y="270" x="365"/>
+   <text id="svg_25" text-anchor="middle" fill="white" font-weight="bold" font-size="24" font-family="SimHei, Microsoft YaHei" y="305" x="485">赤月[神]</text>
+   <line id="svg_26" opacity="0.4" stroke="#2d3436" y2="315" x2="590" y1="315" x1="380"/>
+   <text id="svg_27" text-anchor="middle" fill="#2d3436" font-size="15" font-family="Microsoft YaHei" y="340" x="485">初始攻击: 11点</text>
+   <text id="svg_28" text-anchor="middle" fill="white" font-size="15" font-family="Microsoft YaHei" y="365" x="485">满级(+6): 17点</text>
+   <text id="svg_29" text-anchor="middle" fill="#2d3436" font-size="13" font-family="Microsoft YaHei" y="390" x="485">每级 +1 攻击</text>
+   <rect id="svg_30" rx="4" opacity="0.5" fill="#ee9a00" height="20" width="220" y="400" x="375"/>
+   <text id="svg_31" text-anchor="middle" fill="white" font-size="12" font-family="Microsoft YaHei" y="414" x="485">套装: 攻击+10 HP/MP+6%</text>
+  </g>
+  <path id="svg_32" marker-end="url(#arrow)" stroke-width="4" stroke="#ffd700" d="m605,330l65,0"/>
+  <text id="svg_33" font-weight="bold" fill="#ffd700" font-size="11" font-family="Microsoft YaHei" y="314.93671" x="637">进阶</text>
+  <g id="main-tier3">
+   <rect id="svg_34" stroke-width="3" stroke="#48dbfb" fill="url(#main3)" rx="12" height="160" width="240" y="270" x="670"/>
+   <text id="svg_35" text-anchor="middle" fill="white" font-weight="bold" font-size="24" font-family="SimHei, Microsoft YaHei" y="305" x="790">赤月[圣]</text>
+   <line id="svg_36" opacity="0.4" stroke="#1a1a2e" y2="315" x2="895" y1="315" x1="685"/>
+   <text id="svg_37" text-anchor="middle" fill="#1a1a2e" font-size="15" font-family="Microsoft YaHei" y="340" x="790">初始攻击: 15点</text>
+   <text id="svg_38" text-anchor="middle" fill="white" font-size="15" font-family="Microsoft YaHei" y="365" x="790">满级(+6): 21点</text>
+   <text id="svg_39" text-anchor="middle" fill="#1a1a2e" font-size="13" font-family="Microsoft YaHei" y="390" x="790">每级 +1 攻击</text>
+   <rect id="svg_40" rx="4" opacity="0.5" fill="#0abde3" height="20" width="220" y="400" x="680"/>
+   <text id="svg_41" text-anchor="middle" fill="white" font-size="12" font-family="Microsoft YaHei" y="414" x="790">套装: 攻击+15 HP/MP+9%</text>
+  </g>
+  <path id="svg_42" marker-end="url(#arrow)" stroke-width="4" stroke="#ffd700" d="m910,330l65,0"/>
+  <text id="svg_43" font-weight="bold" fill="#ffd700" font-size="11" font-family="Microsoft YaHei" y="316.73418" x="940.12658">进阶</text>
+  <g id="main-tier4">
+   <rect id="svg_44" stroke-width="3" stroke="#a29bfe" fill="url(#main4)" rx="12" height="160" width="260" y="270" x="975"/>
+   <text id="svg_45" text-anchor="middle" fill="white" font-weight="bold" font-size="24" font-family="SimHei, Microsoft YaHei" y="305" x="1105">九龙[极]</text>
+   <line id="svg_46" opacity="0.4" stroke="#2d3436" y2="315" x2="1220" y1="315" x1="990"/>
+   <text id="svg_47" text-anchor="middle" fill="#2d3436" font-size="15" font-family="Microsoft YaHei" y="340" x="1105">初始攻击: 19点</text>
+   <text id="svg_48" text-anchor="middle" fill="white" font-size="15" font-family="Microsoft YaHei" y="365" x="1105">满级(+6): 25点</text>
+   <text id="svg_49" text-anchor="middle" fill="#2d3436" font-size="13" font-family="Microsoft YaHei" y="390" x="1105">每级 +1 攻击</text>
+   <rect id="svg_50" rx="4" opacity="0.5" fill="#6c5ce7" height="20" width="240" y="400" x="985"/>
+   <text id="svg_51" text-anchor="middle" fill="white" font-size="12" font-family="Microsoft YaHei" y="414" x="1105">套装: 攻击+20 HP/MP+15%</text>
+  </g>
+  <text id="svg_52" font-weight="bold" fill="#ff6348" font-size="24" font-family="SimHei, Microsoft YaHei" y="510" x="100">副线装备
+   <tspan id="svg_53" fill="#999" font-size="16">(仅戒指+手镯)</tspan></text>
+  <path id="svg_54" marker-end="url(#arrowSpecial)" stroke-dasharray="6,4" stroke-width="3" stroke="#ff6348" d="m485,430l0,95"/>
+  <path id="svg_55" marker-end="url(#arrowSpecial)" stroke-dasharray="6,4" stroke-width="3" stroke="#ff6348" d="m790,430l0,95"/>
+  <path id="svg_56" marker-end="url(#arrowSpecial)" stroke-dasharray="6,4" stroke-width="3" stroke="#ff6348" d="m1105,430l0,95"/>
+  <g id="sub-tier1">
+   <rect id="svg_57" filter="url(#glow)" stroke-width="4" stroke="#ffd93d" fill="url(#sub1)" rx="12" height="200" width="240" y="525" x="365"/>
+   <circle id="svg_58" filter="url(#strongGlow)" fill="#ff6348" r="8" cy="550" cx="390"/>
+   <circle id="svg_59" filter="url(#strongGlow)" fill="#ff6348" r="8" cy="550" cx="580"/>
+   <text id="svg_60" text-anchor="middle" fill="white" font-weight="bold" font-size="24" font-family="SimHei, Microsoft YaHei" y="565" x="485">赤月[超神]</text>
+   <text id="svg_61" font-weight="bold" text-anchor="middle" fill="#8b0000" font-size="13" font-family="Microsoft YaHei" y="590" x="485">★ 特殊装备 ★</text>
+   <line id="svg_62" opacity="0.3" stroke="#2d3436" y2="600" x2="590" y1="600" x1="380"/>
+   <text id="svg_63" text-anchor="middle" fill="#2d3436" font-size="15" font-family="Microsoft YaHei" y="625" x="485">初始攻击: 12点 (+1)</text>
+   <text id="svg_64" text-anchor="middle" fill="white" font-size="15" font-family="Microsoft YaHei" y="650" x="485">满级(+6): 18点</text>
+   <rect id="svg_65" rx="5" opacity="0.4" fill="#f8b500" height="50" width="220" y="665" x="375"/>
+   <text id="svg_66" font-weight="bold" text-anchor="middle" fill="#2d3436" font-size="11" font-family="Microsoft YaHei" y="692.61538" x="435.96158">隐藏: 忽防+2% 防麻+2%</text>
+   <text id="svg_67" font-weight="bold" text-anchor="middle" fill="#2d3436" font-size="11" font-family="Microsoft YaHei" y="692.3077" x="553.26917">防冻+2% 防网+2%</text>
+  </g>
+  <path id="svg_68" marker-end="url(#arrow)" stroke-width="4" stroke="#ffd700" d="m605,610l65,0"/>
+  <g id="sub-tier2">
+   <rect id="svg_69" filter="url(#glow)" stroke-width="4" stroke="#6dd5ed" fill="url(#sub2)" rx="12" height="200" width="240" y="525" x="670"/>
+   <circle id="svg_70" filter="url(#strongGlow)" fill="#ff6348" r="8" cy="550" cx="695"/>
+   <circle id="svg_71" filter="url(#strongGlow)" fill="#ff6348" r="8" cy="550" cx="885"/>
+   <text id="svg_72" text-anchor="middle" fill="white" font-weight="bold" font-size="24" font-family="SimHei, Microsoft YaHei" y="565" x="790">赤月[超圣]</text>
+   <text id="svg_73" font-weight="bold" text-anchor="middle" fill="#8b0000" font-size="13" font-family="Microsoft YaHei" y="590" x="790">★ 特殊装备 ★</text>
+   <line id="svg_74" opacity="0.3" stroke="#1a1a2e" y2="600" x2="895" y1="600" x1="685"/>
+   <text id="svg_75" text-anchor="middle" fill="#1a1a2e" font-size="15" font-family="Microsoft YaHei" y="625" x="790">初始攻击: 16点 (+1)</text>
+   <text id="svg_76" text-anchor="middle" fill="white" font-size="15" font-family="Microsoft YaHei" y="650" x="790">满级(+6): 22点</text>
+   <rect id="svg_77" rx="5" opacity="0.4" fill="#2193b0" height="50" width="220" y="665" x="680"/>
+   <text id="svg_78" font-weight="bold" text-anchor="middle" fill="white" font-size="11" font-family="Microsoft YaHei" y="692.61538" x="740.96158">隐藏: 忽防+5% 防麻+5%</text>
+   <text stroke="null" id="svg_79" font-weight="bold" text-anchor="middle" fill="white" font-size="11" font-family="Microsoft YaHei" y="693.26924" x="858.26918">防冻+5% 防网+5%</text>
+  </g>
+  <path id="svg_80" marker-end="url(#arrow)" stroke-width="4" stroke="#ffd700" d="m910,610l65,0"/>
+  <g id="sub-tier3">
+   <rect id="svg_81" filter="url(#strongGlow)" stroke-width="4" stroke="#b19cd9" fill="url(#sub3)" rx="12" height="200" width="260" y="525" x="975"/>
+   <circle id="svg_82" filter="url(#strongGlow)" fill="#ffd700" r="8" cy="550" cx="1000"/>
+   <circle id="svg_83" filter="url(#strongGlow)" fill="#ffd700" r="8" cy="550" cx="1210"/>
+   <polygon id="svg_84" filter="url(#strongGlow)" fill="#ffd700" points="1105,533 1115,553 1137,557 1119,572 1123,594 1105,582 1087,594 1091,572 1073,557 1095,553 "/>
+   <text id="svg_85" text-anchor="middle" fill="white" font-weight="bold" font-size="24" font-family="SimHei, Microsoft YaHei" y="585" x="1105">九龙[超级]</text>
+   <text stroke="null" id="svg_86" font-weight="bold" text-anchor="middle" fill="#ffd700" font-size="13" font-family="Microsoft YaHei" y="610" x="1109">★★ 终极装备 ★★</text>
+   <line id="svg_87" opacity="0.3" stroke="#2d3436" y2="620" x2="1220" y1="620" x1="990"/>
+   <text id="svg_88" text-anchor="middle" fill="#2d3436" font-size="15" font-family="Microsoft YaHei" y="645" x="1105">初始攻击: 20点 (+1)</text>
+   <text id="svg_89" text-anchor="middle" fill="white" font-size="15" font-family="Microsoft YaHei" y="670" x="1105">满级(+6): 26点</text>
+   <rect id="svg_90" rx="5" opacity="0.5" fill="#7c5cce" height="30" width="240" y="685" x="985"/>
+   <text transform="matrix(0.880253 0 0 1 111.404 0)" stroke="null" id="svg_91" font-weight="bold" text-anchor="middle" fill="white" font-size="11" font-family="Microsoft YaHei" y="697.23077" x="1128.13932">隐藏: 忽防+10% 防麻+10% 防冻+10% 防网+10%</text>
+  </g>
+  <g id="jiulong-special">
+   <rect id="svg_92" stroke-width="3" stroke="#a29bfe" fill="#2a2a3e" rx="10" height="140" width="280" y="270" x="1283"/>
+   <text id="svg_93" font-weight="bold" text-anchor="middle" fill="#ffd700" font-size="20" font-family="SimHei, Microsoft YaHei" y="300" x="1423">九龙系列特殊属性</text>
+   <line id="svg_94" stroke-width="2" stroke="#a29bfe" y2="310" x2="1548" y1="310" x1="1298"/>
+   <text id="svg_95" text-anchor="middle" fill="#a78bfa" font-size="15" font-family="Microsoft YaHei" y="335" x="1423">九龙[极] 和 九龙[超级]</text>
+   <text id="svg_96" text-anchor="middle" fill="#e0e0e0" font-size="15" font-family="Microsoft YaHei" y="360" x="1423">额外九龙属性:</text>
+   <text id="svg_97" text-anchor="middle" fill="#48dbfb" font-size="12" font-family="Microsoft YaHei" y="379" x="1358">• HP/MP增加 10%</text>
+   <text id="svg_98" text-anchor="middle" fill="#48dbfb" font-size="12" font-family="Microsoft YaHei" y="387" x="1483">• HP/MP回复增加 10%</text>
+   <text id="svg_99" text-anchor="middle" fill="#48dbfb" font-size="12" font-family="Microsoft YaHei" y="399" x="1357">• 攻击力增加 10%</text>
+  </g>
+  <g id="set-mix">
+   <rect id="svg_100" stroke-width="3" stroke="#ffd700" fill="#2a2a3e" rx="10" height="140" width="280" y="432.77778" x="1280"/>
+   <text id="svg_101" font-weight="bold" text-anchor="middle" fill="#ffd700" font-size="20" font-family="SimHei, Microsoft YaHei" y="465" x="1420">套装混搭规则</text>
+   <line id="svg_102" stroke-width="2" stroke="#ffd700" y2="475" x2="1545" y1="475" x1="1295"/>
+   <text id="svg_103" text-anchor="middle" fill="#e0e0e0" font-size="14" font-family="Microsoft YaHei" y="502.22222" x="1404.44444">可混搭触发套装属性:</text>
+   <text id="svg_104" text-anchor="middle" fill="#ffe66d" font-size="13" font-family="Microsoft YaHei" y="523.88889" x="1403.33333">• 赤月[神] + 赤月[超神]</text>
+   <text id="svg_105" text-anchor="middle" fill="#48dbfb" font-size="13" font-family="Microsoft YaHei" y="546.88889" x="1403.33333">• 赤月[圣] + 赤月[超圣]</text>
+   <text id="svg_106" text-anchor="middle" fill="#a78bfa" font-size="13" font-family="Microsoft YaHei" y="566.55556" x="1402.22222">• 九龙[极] + 九龙[超级]</text>
+  </g>
+  <g id="set-requirement">
+   <rect id="svg_107" stroke-width="3" stroke="#ff6348" fill="#2a2a3e" rx="10" height="125" width="280" y="600" x="1280"/>
+   <text id="svg_108" font-weight="bold" text-anchor="middle" fill="#ff6348" font-size="18" font-family="SimHei, Microsoft YaHei" y="630" x="1420">套装触发条件</text>
+   <line id="svg_109" stroke-width="2" stroke="#ff6348" y2="640" x2="1545" y1="640" x1="1295"/>
+   <text id="svg_110" text-anchor="middle" fill="#e0e0e0" font-size="14" font-family="Microsoft YaHei" y="665" x="1420">主线装备: 2戒指+2手镯+1头盔</text>
+   <text stroke="null" id="svg_111" text-anchor="middle" fill="#e0e0e0" font-size="14" font-family="Microsoft YaHei" y="691.11111" x="1398.88889">副线装备: 2戒指+2手镯</text>
+   <text id="svg_112" font-style="italic" text-anchor="middle" fill="#999" font-size="12" font-family="Microsoft YaHei" y="713" x="1383.33333">(副线无项链、无头盔)</text>
+  </g>
+  <g id="full-table">
+   <rect id="svg_113" stroke-width="4" stroke="#ffd700" fill="#1a1a2e" rx="12" height="420" width="1680" y="780" x="80"/>
+   <text id="svg_114" font-weight="bold" text-anchor="middle" fill="#ffd700" font-size="28" font-family="SimHei, Microsoft YaHei" y="825" x="920">装备完整属性对照表</text>
+   <!-- 表格标题行 -->
+   <rect id="svg_115" stroke-width="2" stroke="#555" fill="#2a2a3e" height="45" width="1640" y="850" x="100"/>
+   <text id="svg_116" font-weight="bold" text-anchor="middle" fill="#ffd93d" font-size="15" font-family="Microsoft YaHei" y="878" x="250">装备级别</text>
+   <text id="svg_117" font-weight="bold" text-anchor="middle" fill="#ffd93d" font-size="15" font-family="Microsoft YaHei" y="878" x="400">类型</text>
+   <text id="svg_118" font-weight="bold" text-anchor="middle" fill="#ffd93d" font-size="15" font-family="Microsoft YaHei" y="878" x="530">初始攻击</text>
+   <text id="svg_119" font-weight="bold" text-anchor="middle" fill="#ffd93d" font-size="15" font-family="Microsoft YaHei" y="878" x="660">满级攻击</text>
+   <text id="svg_120" font-weight="bold" text-anchor="middle" fill="#ffd93d" font-size="15" font-family="Microsoft YaHei" y="878" x="900">套装属性</text>
+   <text id="svg_121" font-weight="bold" text-anchor="middle" fill="#ffd93d" font-size="15" font-family="Microsoft YaHei" y="878" x="1360">隐藏属性/特殊属性</text>
+   <!-- 数据行1 -->
+   <rect id="svg_122" stroke="#444" fill="#2a2a3e" height="40" width="1640" y="895" x="100"/>
+   <text id="svg_123" text-anchor="middle" fill="#ff8787" font-size="14" font-family="Microsoft YaHei" y="920" x="250">赤月</text>
+   <text id="svg_124" text-anchor="middle" fill="white" font-size="13" font-family="Microsoft YaHei" y="920" x="400">主线</text>
+   <text id="svg_125" text-anchor="middle" fill="white" font-size="14" font-family="Microsoft YaHei" y="920" x="530">7点</text>
+   <text id="svg_126" text-anchor="middle" fill="white" font-size="14" font-family="Microsoft YaHei" y="920" x="660">13点</text>
+   <text id="svg_127" text-anchor="middle" fill="#ffe66d" font-size="13" font-family="Microsoft YaHei" y="920" x="900">攻击+5 HP/MP+3%</text>
+   <text id="svg_128" text-anchor="middle" fill="#999" font-size="13" font-family="Microsoft YaHei" y="920" x="1360">无</text>
+   <!-- 数据行2 -->
+   <rect id="svg_129" stroke="#444" fill="#3a3a4e" height="40" width="1640" y="935" x="100"/>
+   <text id="svg_130" text-anchor="middle" fill="#ffe66d" font-size="14" font-family="Microsoft YaHei" y="960" x="250">赤月[神]</text>
+   <text id="svg_131" text-anchor="middle" fill="white" font-size="13" font-family="Microsoft YaHei" y="960" x="400">主线</text>
+   <text id="svg_132" text-anchor="middle" fill="white" font-size="14" font-family="Microsoft YaHei" y="960" x="530">11点</text>
+   <text id="svg_133" text-anchor="middle" fill="white" font-size="14" font-family="Microsoft YaHei" y="960" x="660">17点</text>
+   <text id="svg_134" text-anchor="middle" fill="#ffe66d" font-size="13" font-family="Microsoft YaHei" y="960" x="900">攻击+10 HP/MP+6%</text>
+   <text id="svg_135" text-anchor="middle" fill="#999" font-size="13" font-family="Microsoft YaHei" y="960" x="1360">无</text>
+   <!-- 数据行3 -->
+   <rect id="svg_136" stroke="#444" fill="#2a2a3e" height="40" width="1640" y="975" x="100"/>
+   <text id="svg_137" font-weight="bold" text-anchor="middle" fill="#ffd93d" font-size="14" font-family="Microsoft YaHei" y="1000" x="250">赤月[超神]⭐</text>
+   <text id="svg_138" text-anchor="middle" fill="#ffd700" font-size="13" font-family="Microsoft YaHei" y="1000" x="400">副线</text>
+   <text id="svg_139" text-anchor="middle" fill="#ffd700" font-size="14" font-family="Microsoft YaHei" y="1000" x="530">12点</text>
+   <text id="svg_140" text-anchor="middle" fill="#ffd700" font-size="14" font-family="Microsoft YaHei" y="1000" x="660">18点</text>
+   <text id="svg_141" text-anchor="middle" fill="#ffe66d" font-size="13" font-family="Microsoft YaHei" y="1000" x="900">攻击+10 HP/MP+6%</text>
+   <text id="svg_142" text-anchor="middle" fill="#ff8787" font-size="12" font-family="Microsoft YaHei" y="1000" x="1360">忽防+2% 防麻+2% 防冻+2% 防网+2%</text>
+   <!-- 数据行4 -->
+   <rect id="svg_143" stroke="#444" fill="#3a3a4e" height="40" width="1640" y="1015" x="100"/>
+   <text id="svg_144" text-anchor="middle" fill="#c8e6e8" font-size="14" font-family="Microsoft YaHei" y="1040" x="250">赤月[圣]</text>
+   <text id="svg_145" text-anchor="middle" fill="white" font-size="13" font-family="Microsoft YaHei" y="1040" x="400">主线</text>
+   <text id="svg_146" text-anchor="middle" fill="white" font-size="14" font-family="Microsoft YaHei" y="1040" x="530">15点</text>
+   <text id="svg_147" text-anchor="middle" fill="white" font-size="14" font-family="Microsoft YaHei" y="1040" x="660">21点</text>
+   <text id="svg_148" text-anchor="middle" fill="#48dbfb" font-size="13" font-family="Microsoft YaHei" y="1040" x="900">攻击+15 HP/MP+9%</text>
+   <text id="svg_149" text-anchor="middle" fill="#999" font-size="13" font-family="Microsoft YaHei" y="1040" x="1360">无</text>
+   <!-- 数据行5 -->
+   <rect id="svg_150" stroke="#444" fill="#2a2a3e" height="40" width="1640" y="1055" x="100"/>
+   <text id="svg_151" font-weight="bold" text-anchor="middle" fill="#6dd5ed" font-size="14" font-family="Microsoft YaHei" y="1080" x="250">赤月[超圣]⭐</text>
+   <text id="svg_152" text-anchor="middle" fill="#ffd700" font-size="13" font-family="Microsoft YaHei" y="1080" x="400">副线</text>
+   <text id="svg_153" text-anchor="middle" fill="#ffd700" font-size="14" font-family="Microsoft YaHei" y="1080" x="530">16点</text>
+   <text id="svg_154" text-anchor="middle" fill="#ffd700" font-size="14" font-family="Microsoft YaHei" y="1080" x="660">22点</text>
+   <text id="svg_155" text-anchor="middle" fill="#48dbfb" font-size="13" font-family="Microsoft YaHei" y="1080" x="900">攻击+15 HP/MP+9%</text>
+   <text id="svg_156" text-anchor="middle" fill="#48dbfb" font-size="12" font-family="Microsoft YaHei" y="1080" x="1360">忽防+5% 防麻+5% 防冻+5% 防网+5%</text>
+   <!-- 数据行6 -->
+   <rect id="svg_157" stroke="#444" fill="#3a3a4e" height="40" width="1640" y="1095" x="100"/>
+   <text id="svg_158" text-anchor="middle" fill="#c9b4e9" font-size="14" font-family="Microsoft YaHei" y="1120" x="250">九龙[极]</text>
+   <text id="svg_159" text-anchor="middle" fill="white" font-size="13" font-family="Microsoft YaHei" y="1120" x="400">主线</text>
+   <text id="svg_160" text-anchor="middle" fill="white" font-size="14" font-family="Microsoft YaHei" y="1120" x="530">19点</text>
+   <text id="svg_161" text-anchor="middle" fill="white" font-size="14" font-family="Microsoft YaHei" y="1120" x="660">25点</text>
+   <text id="svg_162" text-anchor="middle" fill="#a78bfa" font-size="13" font-family="Microsoft YaHei" y="1120" x="900">攻击+20 HP/MP+15%</text>
+   <text id="svg_163" text-anchor="middle" fill="#a78bfa" font-size="12" font-family="Microsoft YaHei" y="1120" x="1360">九龙: HP/MP+10% HP/MP回复+10% 攻击+10%</text>
+   <!-- 数据行7 -->
+   <rect id="svg_164" stroke="#444" fill="#2a2a3e" height="40" width="1640" y="1135" x="100"/>
+   <text id="svg_165" font-weight="bold" text-anchor="middle" fill="#b19cd9" font-size="14" font-family="Microsoft YaHei" y="1160" x="250">九龙[超级]⭐</text>
+   <text id="svg_166" text-anchor="middle" fill="#ffd700" font-size="13" font-family="Microsoft YaHei" y="1160" x="400">副线</text>
+   <text id="svg_167" text-anchor="middle" fill="#ffd700" font-size="14" font-family="Microsoft YaHei" y="1160" x="530">20点</text>
+   <text id="svg_168" text-anchor="middle" fill="#ffd700" font-size="14" font-family="Microsoft YaHei" y="1160" x="660">26点</text>
+   <text id="svg_169" text-anchor="middle" fill="#a78bfa" font-size="13" font-family="Microsoft YaHei" y="1160" x="900">攻击+20 HP/MP+15%</text>
+   <text id="svg_170" text-anchor="middle" fill="#a78bfa" font-size="11" font-family="Microsoft YaHei" y="1160" x="1286.66668">九龙: HP/MP+10% HP/MP回复+10% 攻击+10%</text>
+   <text id="svg_171" text-anchor="middle" fill="#ffd700" font-size="11" font-family="Microsoft YaHei" y="1160" x="1500">忽防+10% 防麻/冻/网+10%</text>
+  </g>
+  <g id="notes">
+   <rect id="svg_172" stroke-width="3" stroke="#ffd700" fill="#1a1a2e" rx="12" height="300" width="1680" y="1240" x="80"/>
+   <text id="svg_173" font-weight="bold" text-anchor="middle" fill="#ffd700" font-size="26" font-family="SimHei, Microsoft YaHei" y="1280" x="920">系统核心规则</text>
+   <g id="note-left">
+    <text id="svg_174" font-weight="bold" fill="#ffd93d" font-size="18" font-family="Microsoft YaHei" y="1320" x="120">1. 装备分类</text>
+    <text id="svg_175" fill="#e0e0e0" font-size="15" font-family="Microsoft YaHei" y="1350" x="150">• 主线装备：赤月、赤月[神]、赤月[圣]、九龙[极]（全套装备）</text>
+    <text id="svg_176" fill="#e0e0e0" font-size="15" font-family="Microsoft YaHei" y="1375" x="150">• 副线装备：赤月[超神]、赤月[超圣]、九龙[超级]（仅戒指+手镯）</text>
+    <text id="svg_177" font-weight="bold" fill="#ffd93d" font-size="18" font-family="Microsoft YaHei" y="1415" x="120">2. 强化系统</text>
+    <text id="svg_178" fill="#e0e0e0" font-size="15" font-family="Microsoft YaHei" y="1445" x="150">• 所有装备默认 +0，可强化至 +6，每级增加 1 点攻击</text>
+    <text id="svg_179" fill="#e0e0e0" font-size="15" font-family="Microsoft YaHei" y="1470" x="150">• 进阶公式：下一级初始属性 = 上一级 +4 的属性</text>
+    <text id="svg_180" fill="#999" font-size="14" font-family="Microsoft YaHei" y="1495" x="150">例：赤月[神] +0(11点) = 赤月 +4(11点)</text>
+   </g>
+   <g id="note-right">
+    <text id="svg_181" font-weight="bold" fill="#ffd93d" font-size="18" font-family="Microsoft YaHei" y="1320" x="950">3. 副线装备优势</text>
+    <text id="svg_182" fill="#e0e0e0" font-size="15" font-family="Microsoft YaHei" y="1350" x="980">• 主属性比同级主线装备多 1 点攻击</text>
+    <text id="svg_183" fill="#e0e0e0" font-size="15" font-family="Microsoft YaHei" y="1375" x="980">• 拥有独特的隐藏属性（忽防、防麻痹、防冰冻、防蛛网）</text>
+    <text id="svg_184" fill="#e0e0e0" font-size="15" font-family="Microsoft YaHei" y="1400" x="980">• 可与同级主线装备混搭触发套装属性</text>
+    <text id="svg_185" font-weight="bold" fill="#ffd93d" font-size="18" font-family="Microsoft YaHei" y="1440" x="950">4. 九龙系列特殊属性</text>
+    <text id="svg_186" fill="#e0e0e0" font-size="15" font-family="Microsoft YaHei" y="1470" x="980">• 九龙[极] 和 九龙[超级] 额外拥有九龙属性</text>
+    <text id="svg_187" fill="#48dbfb" font-size="15" font-family="Microsoft YaHei" y="1495" x="980">• HP/MP+10%、HP/MP回复+10%、攻击力+10%</text>
+   </g>
+  </g>
+  <text id="svg_188" font-style="italic" text-anchor="middle" fill="#666" font-size="13" font-family="Microsoft YaHei" y="1580" x="1000">Mirserver 九龙装备进阶系统完整版 | Design v4.0</text>
+  <path id="svg_195" d="m1221.34831,359.55056" opacity="NaN" stroke="#a29bfe" fill="url(#main4)"/>
+ </g>
+</svg>
